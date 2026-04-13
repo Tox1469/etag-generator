@@ -1,0 +1,19 @@
+{
+  "name": "etag-generator",
+  "version": "1.0.0",
+  "description": "Geracao e validacao de ETags para respostas HTTP",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["etag","http","cache"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
