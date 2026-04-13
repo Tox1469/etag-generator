@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/etag-generator/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/etag-generator/actions)
+[![License](https://img.shields.io/github/license/Tox1469/etag-generator?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/etag-generator?style=flat-square)](https://github.com/Tox1469/etag-generator/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/etag-generator?style=flat-square)](https://github.com/Tox1469/etag-generator/stargazers)
+
+---
+
 # etag-generator
 
 Geracao e validacao de ETags para respostas HTTP
